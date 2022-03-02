@@ -9,6 +9,7 @@
   "author": "Monaliza14xx",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.3",
     "puppeteer": "^13.4.0"
   }
 }
